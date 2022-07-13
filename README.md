@@ -1,6 +1,4 @@
-# cara_ou_coroa
-Aplicativo para desenvolvimento em estudos Flutter.
-# Aplicativo Cara ou Coroa.
+# Aplicativo Cara ou Coroa. :game_die:
 
 Aplicativo simples desenvolvido no curso de Flutter, para estudos de navegação de tela. 
 
